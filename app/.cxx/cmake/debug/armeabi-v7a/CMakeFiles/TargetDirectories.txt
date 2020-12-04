@@ -1,0 +1,3 @@
+/home/zc/Anzuo_learning/Retian_mobileface_mask/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/zc/Anzuo_learning/Retian_mobileface_mask/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/zc/Anzuo_learning/Retian_mobileface_mask/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/Face.dir

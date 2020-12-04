@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/home/zc/Anzuo_learning/android_face/mobilefacenet_AS/app/.cxx/cmake/release/x86",
+  "command": "/home/zc/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android17 --gcc-toolchain=/home/zc/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/zc/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DFace_EXPORTS -I../../../../src/main/cpp/include -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fopenmp -O2 -fvisibility=hidden -fvisibility-inlines-hidden -fomit-frame-pointer -fstrict-aliasing -ffunction-sections -fdata-sections -ffast-math   -std=c++11 -frtti -fexceptions -fopenmp -O2 -DNDEBUG  -fPIC   -o CMakeFiles/Face.dir/src/main/cpp/detect.cpp.o -c /home/zc/Anzuo_learning/android_face/mobilefacenet_AS/app/src/main/cpp/detect.cpp",
+  "file": "/home/zc/Anzuo_learning/android_face/mobilefacenet_AS/app/src/main/cpp/detect.cpp"
+},
+
+{
+  "directory": "/home/zc/Anzuo_learning/android_face/mobilefacenet_AS/app/.cxx/cmake/release/x86",
+  "command": "/home/zc/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android17 --gcc-toolchain=/home/zc/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/zc/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DFace_EXPORTS -I../../../../src/main/cpp/include -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fopenmp -O2 -fvisibility=hidden -fvisibility-inlines-hidden -fomit-frame-pointer -fstrict-aliasing -ffunction-sections -fdata-sections -ffast-math   -std=c++11 -frtti -fexceptions -fopenmp -O2 -DNDEBUG  -fPIC   -o CMakeFiles/Face.dir/src/main/cpp/face_jni.cpp.o -c /home/zc/Anzuo_learning/android_face/mobilefacenet_AS/app/src/main/cpp/face_jni.cpp",
+  "file": "/home/zc/Anzuo_learning/android_face/mobilefacenet_AS/app/src/main/cpp/face_jni.cpp"
+},
+
+{
+  "directory": "/home/zc/Anzuo_learning/android_face/mobilefacenet_AS/app/.cxx/cmake/release/x86",
+  "command": "/home/zc/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=i686-none-linux-android17 --gcc-toolchain=/home/zc/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/zc/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DFace_EXPORTS -I../../../../src/main/cpp/include -I../../../../src/main/cpp  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fopenmp -O2 -fvisibility=hidden -fvisibility-inlines-hidden -fomit-frame-pointer -fstrict-aliasing -ffunction-sections -fdata-sections -ffast-math   -std=c++11 -frtti -fexceptions -fopenmp -O2 -DNDEBUG  -fPIC   -o CMakeFiles/Face.dir/src/main/cpp/recognize.cpp.o -c /home/zc/Anzuo_learning/android_face/mobilefacenet_AS/app/src/main/cpp/recognize.cpp",
+  "file": "/home/zc/Anzuo_learning/android_face/mobilefacenet_AS/app/src/main/cpp/recognize.cpp"
+}
+]

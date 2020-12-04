@@ -1,0 +1,11 @@
+{
+  "ndk": "/home/zc/Android/android-ndk-r21",
+  "revision": {
+    "mMajor": 21,
+    "mMinor": 0,
+    "mMicro": 6113669,
+    "mPreview": 0,
+    "mPrecision": "MICRO",
+    "mPreviewSeparator": " "
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/zc/Anzuo_learning/android_face/mobilefacenet_AS/app/CMakeLists.txt",
+    "/home/zc/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake",
+    "/home/zc/Android/Sdk/ndk/21.3.6528147/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/zc/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/zc/Anzuo_learning/android_face/mobilefacenet_AS/app/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/home/zc/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/zc/Anzuo_learning/android_face/mobilefacenet_AS/app/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "Face-Release-x86": {
+      "artifactName": "Face",
+      "buildCommand": "/home/zc/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/zc/Anzuo_learning/android_face/mobilefacenet_AS/app/.cxx/cmake/release/x86\" Face",
+      "abi": "x86",
+      "output": "/home/zc/Anzuo_learning/android_face/mobilefacenet_AS/app/build/intermediates/cmake/release/obj/x86/libFace.so",
+      "runtimeFiles": []
+    }
+  }
+}

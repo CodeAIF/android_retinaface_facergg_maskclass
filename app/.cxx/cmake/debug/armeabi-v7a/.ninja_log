@@ -1,0 +1,7 @@
+# ninja log v5
+1	585	1606720465	CMakeFiles/Face.dir/src/main/cpp/recognize.cpp.o	16a23d50f09962a0
+0	624	1606720465	CMakeFiles/Face.dir/src/main/cpp/facemask.cpp.o	8154e03f6e3271a1
+0	675	1606720465	CMakeFiles/Face.dir/src/main/cpp/face_jni.cpp.o	274f46b2de016dbb
+5	949	1606720465	CMakeFiles/Face.dir/src/main/cpp/retinaface.cpp.o	1241a0d4e52b7cd9
+0	1091	1606720465	CMakeFiles/Face.dir/src/main/cpp/detect.cpp.o	39a8982471626cb5
+1091	1213	1606720466	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libFace.so	4d723a7b090feecc

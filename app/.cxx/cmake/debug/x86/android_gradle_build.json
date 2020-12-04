@@ -1,0 +1,62 @@
+{
+  "stringTable": {
+    "0": "/home/zc/Anzuo_learning/mobilefacenet_AS/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android17 --gcc-toolchain=/home/zc/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/zc/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DFace_EXPORTS -I../../../../src/main/cpp/include -I../../../../src/main/cpp -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fopenmp -O2 -fvisibility=hidden -fvisibility-inlines-hidden -fomit-frame-pointer -fstrict-aliasing -ffunction-sections -fdata-sections -ffast-math -std=c++11 -frtti -fexceptions -fopenmp -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/home/zc/Anzuo_learning/mobilefacenet_AS/app/CMakeLists.txt",
+    "/home/zc/Android/Sdk/ndk/21.3.6528147/build/cmake/android.toolchain.cmake",
+    "/home/zc/Android/Sdk/ndk/21.3.6528147/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/zc/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/zc/Anzuo_learning/mobilefacenet_AS/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/home/zc/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/zc/Anzuo_learning/mobilefacenet_AS/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "Face-Debug-x86": {
+      "buildCommand": "/home/zc/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/zc/Anzuo_learning/mobilefacenet_AS/app/.cxx/cmake/debug/x86\" Face",
+      "buildType": "debug",
+      "toolchain": "4186378523",
+      "abi": "x86",
+      "artifactName": "Face",
+      "files": [
+        {
+          "src": "/home/zc/Anzuo_learning/mobilefacenet_AS/app/src/main/cpp/detect.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/zc/Anzuo_learning/mobilefacenet_AS/app/src/main/cpp/face_jni.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/zc/Anzuo_learning/mobilefacenet_AS/app/src/main/cpp/recognize.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/home/zc/Anzuo_learning/mobilefacenet_AS/app/src/main/cpp/detect.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/home/zc/Anzuo_learning/mobilefacenet_AS/app/src/main/cpp/recognize.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/home/zc/Anzuo_learning/mobilefacenet_AS/app/build/intermediates/cmake/debug/obj/x86/libFace.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "4186378523": {
+      "cppCompilerExecutable": "/home/zc/Android/Sdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
